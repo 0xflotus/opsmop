@@ -28,7 +28,7 @@ Features
 * Formal Plan vs Apply evaluation stages
 * Early validation of configuration checks
 * Implicit ordering with notification events
-* Programatically scoped variables
+* Programmatically scoped variables
 * Local configuration
 * Pull configuration with pluggable transports (soon)
 * Push configuration with multi-tier addressing (soon)
@@ -60,7 +60,7 @@ Status
 * Extensive help for new contributors available in December 2018, stop by the forum!
 * Pull and Push features under active development
 * Documentated language features mostly locked in by January 2019
-* Tagged release in Feburary 2019
+* Tagged release in February 2019
 
 If you like where this is going, now is the time to join up with thoughts
 and potentially code. For upcoming planned activity, see TODO.md
